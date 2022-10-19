@@ -43,5 +43,5 @@ The estimators under consideration were the Two-Stage Least Squares (2SLS) estim
 
 ## Code and other files
 
-The function_file.py contains all necessary functions to calculate/generate the data generating processes (DGPs), estimators, and plots.
-The main_file.py calls and executes all necessary functions on predefined variables. In addition inference statistics are also calculated in this file. All tables are save in self_study_output.txt file. The self_study_Storch.pdf explains the whole estimation procedure and gives reasoning for the results obtained in the three different DGP simulations.
+The function_file.py contains all necessary functions to calculate/generate the data-generating processes (DGPs), estimators, and plots.
+The main_file.py calls and executes all necessary functions on predefined variables. In addition, inference statistics are also calculated in this file. All tables are saved in the self_study_output.txt file. The self_study_Storch.pdf explains the whole estimation procedure and gives reasoning for the results obtained in the three different DGP simulations.
