@@ -1,6 +1,6 @@
 # General information
 
-This project was submitted as a personal assignment for the "Data Analytics II: Causal Econometrics" course. The project was graded with 23/25 points, which corresponded to 30% of the final grade.
+This project was submitted as a personal assignment for the "Data Analytics II: Causal Econometrics" course. The project was graded with **23/25 points**, which corresponded to 30% of the final grade.
 
 ## Course task
 
@@ -38,10 +38,10 @@ compact manner
 
 ## Project Description
 
-In this framework I chose the so-called local average treatment effect (LATE) in an instrument variable (IV) setting. While the IV method fails to capture either the Average Treatment Effect (ATE) or Average Treatment Effect on the Treated (ATET), because the method measures effects on subgroups, it is a common strategy to identify the LATE, which represents the treatment effect of a specific sub-sample.
-The estimators under consideration were the Two-Stage Least Squares (2SLS) estimator and the Limited Information Maximum Likelihood (LIML) estimator. For a more detailed explanation please see self_study_Storch.pdf
+In this framework I chose the so-called *local average treatment effect* (LATE) in an *instrument variable* (IV) setting. While the IV method fails to capture either the Average Treatment Effect (ATE) or Average Treatment Effect on the Treated (ATET), because the method measures effects on subgroups, it is a common strategy to identify the LATE, which represents the treatment effect of a specific sub-sample.
+The estimators under consideration were the *Two-Stage Least Squares* (2SLS) estimator and the *Limited Information Maximum Likelihood* (LIML) estimator. For a more detailed explanation please see *self_study_Storch.pdf*.
 
 ## Code and other files
 
-The function_file.py contains all necessary functions to calculate/generate the data-generating processes (DGPs), estimators, and plots.
-The main_file.py calls and executes all necessary functions on predefined variables. In addition, inference statistics are also calculated in this file. All tables are saved in the self_study_output.txt file. The self_study_Storch.pdf explains the whole estimation procedure and gives reasoning for the results obtained in the three different DGP simulations.
+The *function_file.py* contains all necessary functions to calculate/generate the data-generating processes (DGPs), estimators, and plots.
+The *main_file.py* calls and executes all necessary functions on predefined variables. In addition, inference statistics are also calculated in this file. All tables are saved in the *self_study_output.txt* file. The *self_study_Storch.pdf* explains the whole estimation procedure and gives reasoning for the results obtained in the three different DGP simulations.
