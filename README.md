@@ -1,7 +1,7 @@
 This project was submitted as a personal assignment for the course "Data Analytics II: Causal Econometrics".
 
-The topic was to set up a simulation study that compares two estimators. The criterias were to find
-
+The topic was to set up a simulation study that compares two estimators. The criteria were to find \n
+\n
 i ) a research design, (e.g., Experiment, Conditional Independence Assumption, Diff- in-Diff, ...) and parameter of interest (e.g. ATE, ATET, LATE, CATE)
 ii) two estimators suitable for this problem (referring to the lecture notes which are not uploaded on my profile)
 iii) three data generating processes (DGP):
