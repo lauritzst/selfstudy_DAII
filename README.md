@@ -10,8 +10,8 @@ The topic was to set up a simulation study that compares two estimators. The cri
 1. a research design, (e.g., Experiment, Conditional Independence Assumption, Diff- in-Diff, ...) and parameter of interest (e.g. ATE, ATET, LATE, CATE) 
 2. two estimators suitable for this problem (referring to the lecture notes which are not uploaded on my profile) 
 3. three data generating processes (DGP): 
- -   DGP1: The identifying assumptions hold and estimator A should perform better than B 
- -  DGP2: The identifying assumptions hold and estimator B should perform better than A 
+ - DGP1: The identifying assumptions hold and estimator A should perform better than B 
+ - DGP2: The identifying assumptions hold and estimator B should perform better than A 
  - DGP3: One identifying assumption is violated
 4. performance measures, e.g., mean-squared error, bias, variance, coverage rate, etc.
 
@@ -37,3 +37,9 @@ compact manner
 3. 10 points for the programming: Does the code run?, Is it well commented?, Is the coding efficient (use of functions)?, ...
 
 ## Project Description
+
+In this framework I chose the so-called local average treatment effect (LATE) in an instrument variable (IV) setting. While the IV method fails to capture either the Average Treatment Effect (ATE) or Average Treatment Effect on the Treated (ATET), because the method measures effects on subgroups, it is a common strategy to identify the LATE, which represents the treatment effect of a specific sub-sample.
+The estimators under consideration were the Two-Stage Least Squares (2SLS) estimator and the Limited Information Maximum Likelihood (LIML) estimator. 
+
+## Code
+
