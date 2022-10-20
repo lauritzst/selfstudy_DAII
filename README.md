@@ -38,8 +38,7 @@ compact manner
 
 ## Project Description
 
-In this framework I chose the so-called *local average treatment effect* (LATE) in an *instrument variable* (IV) setting. While the IV method fails to capture either the Average Treatment Effect (ATE) or Average Treatment Effect on the Treated (ATET), because the method measures effects on subgroups, it is a common strategy to identify the LATE, which represents the treatment effect of a specific sub-sample.
-The estimators under consideration were the *Two-Stage Least Squares* (2SLS) estimator and the *Limited Information Maximum Likelihood* (LIML) estimator. For a more detailed explanation please see *self_study_Storch.pdf*.
+I chose the so-called *local average treatment effect* (LATE) in this framework in an *instrument variable* (IV) setting. While the IV method fails to capture either the Average Treatment Effect (ATE) or Average Treatment Effect on the Treated (ATET) because the method measures effects on subgroups, it is a common strategy to identify the LATE, which represents the treatment effect of a specific sub-sample. The estimators under consideration were the *Two-Stage Least Squares* (2SLS) estimator and the *Limited Information Maximum Likelihood* (LIML) estimator. For a more detailed explanation, please see self_study_Storch.pdf.
 
 ## Code and other files
 
