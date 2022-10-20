@@ -22,7 +22,8 @@ The topic was to set up a simulation study that compares two estimators. The cri
 - Implementation must be done in Python
 - Implement the estimators from scratch (no library functions)
 - You may use libraries as inputs to your functions, e.g. Lasso implementation within a new Causal ML function
-- Implement DGPs from scratch (no OPPOSUM or alike) Projects that are (almost) identical will receive zero points
+- Implement DGPs from scratch (no OPPOSUM or alike) 
+- Projects that are (almost) identical will receive zero points
 
 ### Evaluation
 
