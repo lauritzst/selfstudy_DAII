@@ -1,6 +1,6 @@
 # General information
 
-This project was submitted as a personal assignment for the "Data Analytics II: Causal Econometrics" course. The project was graded with **23/25 points**, which corresponded to 30% of the final grade.
+This project was submitted as a personal assignment for the course "Data Analytics II: Causal Econometrics". The project was graded with **23/25 points**, which corresponded to 30% of the final grade.
 
 ## Course task
 
